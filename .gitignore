@@ -1,0 +1,13 @@
+# Local Claude Code settings and data
+.claude/
+
+# Embedded repos
+skills/video/remotion/
+
+# Zip archives
+*.zip
+
+# Node / Python artifacts
+node_modules/
+__pycache__/
+*.pyc
