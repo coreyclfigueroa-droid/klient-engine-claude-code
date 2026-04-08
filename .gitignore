@@ -1,5 +1,8 @@
-# Local Claude Code settings and data
-.claude/
+# Local Claude Code settings and sensitive data
+.claude/settings.local.json
+.claude/lead-config.json
+.claude/lead-data/
+.claude/pipeline-config.json
 
 # Embedded repos
 skills/video/remotion/
